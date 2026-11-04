@@ -20,7 +20,7 @@
 
 ### Решение:
 
-![1](https://github.com/Ivan-Shkutov/microservices_02_principles/blob/main/11.png)
+<img width="1562" height="877" alt="image" src="https://github.com/user-attachments/assets/7af9d3db-09eb-4e4c-a572-5d101b303ad2" />
 
 Выбор решения и обоснование:
 
