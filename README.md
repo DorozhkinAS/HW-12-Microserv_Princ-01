@@ -60,6 +60,8 @@ Kong (Community / Enterprise)
 
 ### Решение:
 
+<img width="1390" height="877" alt="image" src="https://github.com/user-attachments/assets/14d77623-6c9a-4f64-909b-9870a0cc4fad" />
+
 ![2](https://github.com/Ivan-Shkutov/microservices_02_principles/blob/main/12.png)
 
 Выбор решения и обоснование:
